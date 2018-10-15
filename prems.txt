@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 #
 #coucou master
 #
-=======
->>>>>>> parent of 5621197... recoucou
 #coucou 
